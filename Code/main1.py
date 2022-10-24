@@ -14,7 +14,6 @@ while r < files:
     renamed = "Images\\Unprocessed\\I"+ str(r) + ".JPG"
     os.rename(current, renamed)
 
-
 #Crop & BW
     image = Image.open("Images\\Unprocessed\\I" + str(r) + ".JPG").convert("L")
            #left, top, right, bottom
