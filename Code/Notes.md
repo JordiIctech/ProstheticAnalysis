@@ -1,2 +1,2 @@
-# Missing
-Must create stress/strain relation.
+## Missing
+- Must create stress/strain relation.
