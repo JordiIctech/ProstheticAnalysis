@@ -6,7 +6,7 @@ A prosthetic foot was created and then analyzed using the Python program uploade
 - Pandas
 - Numpy
 
-##Current Issues:
+## Current Issues:
 -
 
 ## Current Links:
