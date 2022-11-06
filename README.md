@@ -5,3 +5,10 @@ A prosthetic foot was created and then analyzed using the Python program uploade
 - Python
 - Pandas
 - Numpy
+
+##Current Issues:
+-
+
+## Current Links:
+-
+
