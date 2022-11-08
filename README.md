@@ -10,5 +10,6 @@ A prosthetic foot was created and then analyzed using the Python program uploade
 - Stress Calculation / Verification
 
 ## Current Links:
--
+- https://www.engineersedge.com/beam_bending/tapered-snap-fit-beam.htm
+- https://topdogengineer.com/stresses-in-a-tapered-beam/
 
