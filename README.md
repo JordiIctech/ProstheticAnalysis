@@ -7,7 +7,7 @@ A prosthetic foot was created and then analyzed using the Python program uploade
 - Numpy
 
 ## Current Issues:
--
+- Stress Calculation / Verification
 
 ## Current Links:
 -
