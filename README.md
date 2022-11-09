@@ -8,6 +8,7 @@ A prosthetic foot was created and then analyzed using the Python program uploade
 
 ## Current Issues:
 - Stress Calculation / Verification
+- Upload Full Dataset
 
 ## Current Links:
 - https://www.engineersedge.com/beam_bending/tapered-snap-fit-beam.htm
